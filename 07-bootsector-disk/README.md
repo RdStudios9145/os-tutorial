@@ -60,4 +60,4 @@ as `0x00`, it seems to work fine then.
 2. Explicitly use the flag `-boot`, e.g. `qemu boot_sect_main.bin -boot c` which 
 automatically sets `dl` as `0x80` and lets the bootloader read data
 
-
+[next](https://github.com/RdStudios9145/os-tutorial/tree/master/08-32bit-print)
