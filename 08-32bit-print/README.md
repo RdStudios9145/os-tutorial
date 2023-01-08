@@ -29,3 +29,5 @@ to replace it.
 Unfortunately we cannot yet call this routine from the bootloader, because
 we still don't know how to write the GDT and enter protected mode. Once
 you have understood the code, jump to the next lesson.
+
+[next](https://github.com/RdStudios9145/os-tutorial/tree/master/09-32bit-gdt)
