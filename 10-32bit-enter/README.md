@@ -21,3 +21,5 @@ at `32bit-main.asm`. Compile and run this last file and you will see the two
 messages on the screen.
 
 Congratulations! Our next step will be to write a simple kernel
+
+[next](https://github.com/RdStudios9145/os-tutorial/tree/master/11-kernel-crosscompiler)
