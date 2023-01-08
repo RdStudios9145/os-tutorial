@@ -29,3 +29,5 @@ this lesson is quite complex.
 
 In the next lesson we will make the switch to 32-bit protected mode
 and test our code from these lessons.
+
+[next](https://github.com/RdStudios9145/os-tutorial/tree/master/10-32bit-enter)
