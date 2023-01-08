@@ -14,4 +14,4 @@ This lesson is quite straightforward, so jump ahead to the code.
 I suggest that you try accessing in-stack memory addresses by yourself, 
 at different points in the code, and see what happens.
 
-[next](https://github.com/RdStudios9145/os-tutorial/tree/master/05-bootsector-functoins-strings)
+[next](https://github.com/RdStudios9145/os-tutorial/tree/master/05-bootsector-functions-strings)
