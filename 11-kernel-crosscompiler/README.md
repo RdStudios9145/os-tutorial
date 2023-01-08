@@ -74,3 +74,5 @@ collisions with your system's compiler and binutils.
 
 You may want to add the `$PATH` to your `.bashrc`. From now on, on this tutorial, we will explicitly use the prefixes when using
 the cross-compiled gcc.
+
+[next](https://github.com/RdStudios9145/os-tutorial/tree/master/12-kernel-c)
