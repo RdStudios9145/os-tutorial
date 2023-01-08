@@ -23,3 +23,5 @@ Enough theory. Have a look at the code and play with it a bit.
 
 Hint: We cannot `mov` literals to those registers, we have to
 use a general purpose register before.
+
+[next](https://github.com/RdStudios9145/os-tutorial/tree/master/07-bootsector-disk)
