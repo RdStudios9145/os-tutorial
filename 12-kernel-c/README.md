@@ -63,3 +63,5 @@ Then compile and disassemble them, and examine the resulting machine code. Follo
 the os-guide.pdf for explanations. Try to answer this question: why does the
 disassemblement of `pointers.c` not resemble what you would expect? Where is
 the ASCII `0x48656c6c6f` for "Hello"?
+
+[next](https://github.com/RdStudios9145/os-tutorial/tree/master/13-kernel-barebones)
